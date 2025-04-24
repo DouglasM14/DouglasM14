@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Eu sou o Douglas <br><br>- 🔭 Eu estou focado no momento só com a faculdade<br>- 📚 Atualmente estou aprendendo C, React e Python</p>
+<p align="left">Eu sou o Douglas no momento estou estudando Sistemas de Informação na USP e formato em Técnico em Informatico para Internet <br><br>- 🔭 Eu estou focado no momento só com a faculdade<br>- 📚 Atualmente estou aprendendo C, React e Python</p>
 
 ###
 
